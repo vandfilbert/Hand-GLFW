@@ -1,0 +1,36 @@
+﻿  UTSGrafkom.cpp
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\UTSGrafkom\Shape.h(7,31): warning C4305:  'initializing': truncation from 'double' to 'float'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\UTSGrafkom\Shape.h(8,36): warning C4305:  'initializing': truncation from 'double' to 'float'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\UTSGrafkom\Shape.h(38,16): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\UTSGrafkom\Shape.h(343,151): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\UTSGrafkom\Shape.h(345,15): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\UTSGrafkom\Shape.h(347,46): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\UTSGrafkom\Shape.h(349,27): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\UTSGrafkom\Shape.h(355,13): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\UTSGrafkom\Shape.h(393,15): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\UTSGrafkom\Shape.h(394,44): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\UTSGrafkom\Shape.h(396,27): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\UTSGrafkom\Shape.h(397,19): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\UTSGrafkom\Shape.h(406,31): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\UTSGrafkom\Shape.h(411,13): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\UTSGrafkom\Shape.h(413,1): warning C4091:  '': ignored on left of 'int' when no variable is declared
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\UTSGrafkom\Shape.h(419,23): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\UTSGrafkom\Shape.h(427,23): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\UTSGrafkom\UTSGrafkom.cpp(10,57): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\UTSGrafkom\UTSGrafkom.cpp(10,62): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\UTSGrafkom\UTSGrafkom.cpp(221,26): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\UTSGrafkom\UTSGrafkom.cpp(220,36): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\UTSGrafkom\UTSGrafkom.cpp(227,27): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\UTSGrafkom\UTSGrafkom.cpp(226,49): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\UTSGrafkom\UTSGrafkom.cpp(232,28): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\UTSGrafkom\UTSGrafkom.cpp(230,62): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\UTSGrafkom\UTSGrafkom.cpp(237,28): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\UTSGrafkom\UTSGrafkom.cpp(235,75): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\UTSGrafkom\UTSGrafkom.cpp(242,28): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\UTSGrafkom\UTSGrafkom.cpp(241,88): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\UTSGrafkom\UTSGrafkom.cpp(248,28): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\UTSGrafkom\UTSGrafkom.cpp(247,88): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\UTSGrafkom\UTSGrafkom.cpp(246,88): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\UTSGrafkom\UTSGrafkom.cpp(254,28): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\UTSGrafkom\UTSGrafkom.cpp(252,88): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+  UTSGrafkom.vcxproj -> C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\UTSGrafkom\Debug\UTSGrafkom.exe
